@@ -11,4 +11,3 @@
   <img align="left down" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 </div>
 
-![Snake Animation](https://github.com/Suwwess/Suwwess/blob/output/github-contribuition-grid-snake.svg)
